@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 356c01f12c6022d46ba5c5da86ad5dcd, type: 3}
+  m_Name: Basic Potion
+  m_EditorClassIdentifier: 
+  uiDisplay: {fileID: 1018383391595562092, guid: dbbe37339194c964f9adf274c5a54608,
+    type: 3}
+  stackable: 1
+  type: 0
+  description: A typical Potion that is very common in the world.
+  sellGold: 2
+  buyGold: 0
+  data:
+    Name: Basic Potion
+    Id: 9
+    buffs: []
+  restoreHealthValue: 5

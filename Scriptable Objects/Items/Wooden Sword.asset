@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: cddf9632ef635ff4d8bd899a0b4de8f6, type: 3}
+  m_Name: Wooden Sword
+  m_EditorClassIdentifier: 
+  uiDisplay: {fileID: -8000257237967149311, guid: dbbe37339194c964f9adf274c5a54608,
+    type: 3}
+  stackable: 0
+  type: 2
+  description: 'A wooden sword.
+
+    This is probably given to kids so they don''t
+    hurt themselves.'
+  sellGold: 2
+  buyGold: 10
+  data:
+    Name: Woorden Sword
+    Id: 0
+    buffs:
+    - attribute: 0
+      value: 0
+      min: 1
+      max: 2
